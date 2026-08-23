@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="วางลิงก์ที่คัดลอกมาตรงนี้.gif" alt="Wakaba Mutsumi" width="400px" />
+  <img src="(https://tenor.com/en-GB/view/若葉睦-gif-11646482710307451486)" alt="Wakaba Mutsumi" width="400px" />
 </div>
 
 ---
