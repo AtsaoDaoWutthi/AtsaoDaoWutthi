@@ -1,22 +1,5 @@
 <div align="center">
-
-  <!-- Typing Effect Header (Dark Contrast) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=333333&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+v4n1.ccr;Software+%26+Game+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    ⚡ <i>Building cool projects & exploring new technologies</i> ⚡
-  </p>
-
-  <br />
-
-  <!-- GitHub Stats Cards (Light Contrast Theme) -->
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AtsaoDaoWutthi&show_icons=true&theme=light&title_color=333&icon_color=00F0FF" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtsaoDaoWutthi&layout=compact&theme=light&title_color=333" alt="Top Languages" />
-  </p>
-
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Banner" width="100%" />
 </div>
 
 ---
