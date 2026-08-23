@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="(https://tenor.com/en-GB/view/若葉睦-gif-11646482710307451486)" alt="Wakaba Mutsumi" width="400px" />
-</div>
+<div class="tenor-gif-embed" data-postid="11646482710307451486" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/%E8%8B%A5%E8%91%89%E7%9D%A6-gif-11646482710307451486">若葉睦 Sticker</a>from <a href="https://tenor.com/search/%E8%8B%A5%E8%91%89%E7%9D%A6-stickers">若葉睦 Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
